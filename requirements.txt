@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+notebook
+opencv-python
+matplotlib
+numpy
+pillow
+seaborn
